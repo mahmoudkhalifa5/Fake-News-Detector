@@ -37,6 +37,7 @@ This project uses text classification techniques to detect misinformation in new
 
 ---
 
+```
 fake-news-detector/
 │
 ├── app.py # Flask web application
@@ -56,6 +57,7 @@ fake-news-detector/
 │ └── style.css # Styling
 │
 └── README.md
+```
 
 ---
 
@@ -91,12 +93,5 @@ fake-news-detector/
 ```bash
 git clone https://github.com/your-username/fake-news-detector.git
 cd fake-news-detector
-
----
-
-. Install dependencies
-
-- pip install -r requirements.txt
-
----
- 
+ Install dependencies
+ pip install -r requirements.txt 
